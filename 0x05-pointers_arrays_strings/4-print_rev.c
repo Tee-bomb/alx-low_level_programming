@@ -7,7 +7,6 @@
 void print_rev(char *s)
 {
 	int longe = 0;
-	int n;
 
 	while (*s != '\0')
 	{
